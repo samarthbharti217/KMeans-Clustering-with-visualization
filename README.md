@@ -1,0 +1,2 @@
+# KMeans-Clustering-with-visualization
+This program implements the K-means clustering algorithm which basically segments items based on similarity. In this unsupervised algorithm similarity is measured by minimum euclidean distance from a designated cluster head. Can be used for recommendation systems, market segmentation etc.  It also visualizes the result using the library jfreechart. Follow ReadMe to install jfreechart. 
